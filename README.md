@@ -15,7 +15,7 @@ The idea was to change the sound to sound a bit more like a steam train than a m
 * When the train is running there is a sound from a bell and horn (again real steam train sounds) :mega:
 * When the train is fuelled via the button the horn is heard
 * The motor stops if it hits e.g. a wall :collision:
-* If the train has not been used within 5 seconds it goes into a power safe mode :zzz:
+* If the train has not been used within 5 seconds it goes into a power save mode :zzz:
 
 ### Software
 
